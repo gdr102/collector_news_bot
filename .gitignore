@@ -1,4 +1,4 @@
 structure.txt
 
 .venv/
-app/utils/config.py
+app/config.py
